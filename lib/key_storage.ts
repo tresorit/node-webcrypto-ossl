@@ -2,7 +2,7 @@
 import * as fs from "fs";
 import * as mkdirp from "mkdirp";
 import * as path from "path";
-import * as core from "webcrypto-core";
+import * as core from "tresorit-webcrypto-core";
 
 import { CryptoKey } from "./key";
 import * as native from "./native";

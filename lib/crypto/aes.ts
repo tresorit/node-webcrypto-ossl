@@ -1,5 +1,5 @@
 // Core
-import { AlgorithmError, AlgorithmNames, Base64Url, BaseCrypto, WebCryptoError } from "webcrypto-core";
+import { AlgorithmError, AlgorithmNames, Base64Url, BaseCrypto, WebCryptoError } from "tresorit-webcrypto-core";
 
 // Local
 import { CryptoKey } from "../key";

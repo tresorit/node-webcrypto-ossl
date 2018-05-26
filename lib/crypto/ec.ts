@@ -1,5 +1,5 @@
 // Core
-import * as webcrypto from "webcrypto-core";
+import * as webcrypto from "tresorit-webcrypto-core";
 const AlgorithmError = webcrypto.AlgorithmError;
 const WebCryptoError = webcrypto.WebCryptoError;
 const AlgorithmNames = webcrypto.AlgorithmNames;

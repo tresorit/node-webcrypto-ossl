@@ -1,6 +1,6 @@
 {
-  "name": "node-webcrypto-ossl",
-  "version": "2.0.0",
+  "name": "tresorit-node-webcrypto-ossl",
+  "version": "3.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/PeculiarVentures/node-webcrypto-ossl.git"
@@ -40,7 +40,7 @@
     "mkdirp": "^0.5.1",
     "nan": "^2.8.0",
     "tslib": "^1.7.1",
-    "webcrypto-core": "tresorit/webcrypto-core"
+    "tresorit-webcrypto-core": "^1.0.1"
   },
   "devDependencies": {
     "@types/mkdirp": "^0.3.29",
@@ -48,6 +48,6 @@
     "coveralls": "^2.13.1",
     "mocha": "^3.4.2",
     "nyc": "^10.1.2",
-    "typescript": "^2.5.2"
+    "typescript": "~2.5.2"
   }
 }

@@ -1,6 +1,6 @@
 // Core
 import * as crypto from "crypto";
-import * as webcrypto from "webcrypto-core";
+import * as webcrypto from "tresorit-webcrypto-core";
 
 // Local
 import { KeyStorage } from "./key_storage";

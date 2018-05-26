@@ -1,5 +1,5 @@
 // Core
-import * as Core from "webcrypto-core";
+import * as Core from "tresorit-webcrypto-core";
 
 // Local
 import { CryptoKey } from "../key";

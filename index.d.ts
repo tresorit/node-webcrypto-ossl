@@ -1,5 +1,5 @@
 /// <reference types="node" />
-/// <reference types="webcrypto-core" />
+/// <reference types="tresorit-webcrypto-core" />
 
 declare namespace NodeWebcryptoOpenSSL {
 
@@ -178,6 +178,6 @@ declare namespace NodeWebcryptoOpenSSL {
     }
 }
 
-declare module "node-webcrypto-ossl" {
+declare module "tresorit-node-webcrypto-ossl" {
     export = NodeWebcryptoOpenSSL.WebCrypto;
 }
